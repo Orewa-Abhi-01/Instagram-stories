@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "userName": "tanjiro",
+    "story": "https://i.pinimg.com/736x/9e/0c/65/9e0c6530b7ce669a0fd92c8df5e741a9.jpg",
+    "profileSrc": "https://i.pinimg.com/736x/a2/94/ff/a294ff1800d9190f8f159716fd19098f.jpg",
+    "seen": false
+  },
+  {
+    "id": 2,
+    "userName": "pervysage",
+    "story": "https://i.pinimg.com/736x/90/17/88/901788e481323296476791c849080c85.jpg",
+    "profileSrc": "https://i.pinimg.com/1200x/75/38/d9/7538d90cb5456bab2552205e898ab00a.jpg",
+    "seen": false
+  },
+  {
+    "id": 3,
+    "userName": "kratos",
+    "story": "https://i.pinimg.com/736x/08/8f/33/088f3327ce53d3f2255f9c9fbc49cec9.jpg",
+    "profileSrc": "https://i.pinimg.com/736x/72/93/8b/72938ba34621ca8ee137ff047b244243.jpg",
+    "seen": false
+  },
+  {
+    "id": 4,
+    "userName": "jinwoo",
+    "story": "https://i.pinimg.com/736x/e2/20/e2/e220e2b7a37eb5fd4b9a406fde90e973.jpg",
+    "profileSrc": "https://i.pinimg.com/736x/d7/15/70/d71570c2f697f6861bbf33f0d875d550.jpg",
+    "seen": false
+  },
+  {
+    "id": 5,
+    "userName": "goku",
+    "story": "https://i.pinimg.com/736x/0b/47/af/0b47af6dbad26ba2d4bc5f767ef18109.jpg",
+    "profileSrc": "https://i.pinimg.com/736x/c2/46/a8/c246a819967c3bbeb3e99e79b2ffd125.jpg",
+    "seen": false
+  },
+  {
+    "id": 6,
+    "userName": "itachi",
+    "story": "https://i.pinimg.com/736x/54/d5/9d/54d59d0845ec3dda5f013e0ee03d260c.jpg",
+    "profileSrc": "https://i.pinimg.com/1200x/93/ca/44/93ca44d746cc4a859d506d6b4e1a2e0f.jpg",
+    "seen": false
+  },
+  {
+    "id": 7,
+    "userName": "saitama",
+    "story": "https://i.pinimg.com/736x/86/f2/5a/86f25abf835bd1c1303915a095273c51.jpg",
+    "profileSrc": "https://i.pinimg.com/1200x/35/fb/66/35fb669fd3d93d70cea64b8a8f15e6e7.jpg",
+    "seen": false
+  },
+  {
+    "id": 8,
+    "userName": "eren",
+    "story": "https://i.pinimg.com/736x/87/36/16/8736169f9a31fa9c715a7e8249ce481a.jpg",
+    "profileSrc": "https://i.pinimg.com/736x/2f/53/3c/2f533c5bdf61c6b28a2f842bf861e238.jpg",
+    "seen": false
+  },
+  {
+    "id": 9,
+    "userName": "levi",
+    "story": "https://i.pinimg.com/736x/0f/2a/ca/0f2aca15b869777a310ef415a7056697.jpg",
+    "profileSrc": "https://i.pinimg.com/736x/44/18/5b/44185b4c583ebb9b241c05a4c8a44e82.jpg",
+    "seen": false
+  },
+  {
+    "id": 10,
+    "userName": "naruto",
+    "story": "https://i.pinimg.com/736x/02/54/da/0254da921d092c343b49c6b7082132ca.jpg",
+    "profileSrc": "https://i.pinimg.com/1200x/16/94/db/1694dba6faaeb54fa5ca4061e5cca330.jpg",
+    "seen": false
+  }
+]
